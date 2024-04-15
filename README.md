@@ -49,7 +49,7 @@
    - ![](https://tva1.sinaimg.cn/large/008d89Swgy1h5mbcmdigsj31hc0swtni.jpg)
 3. 进入 `代码管理`。在右上角找到 `导入代码库`
    - ![](https://tva1.sinaimg.cn/large/008d89Swgy1h5mbdpyvlij31hc0swajs.jpg)
-   - 按照下面示例进行填写，仓库地址是：`https://github.com/james-curtis/hnie-auto-sign-nestjs.git`
+   - 按照下面示例进行填写，仓库地址是：`https://github.com/QinLoong/yiban-playcard-auto.git`
    - ![](https://tva1.sinaimg.cn/large/008d89Swgy1h5mbehv5e7j30lf0mytbr.jpg)
 4. 创建流水线
    - 点击左侧的 `流水线`
